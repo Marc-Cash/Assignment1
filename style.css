@@ -1,0 +1,19 @@
+body {
+    font-family: arial;
+    font-size: 10px;
+    background: #fafafa;
+}
+
+.headerTitle {
+    background-color: #014588;
+    margin: 10px 0px;
+    padding: 10px;
+    color: #fff;
+}
+
+.section {
+    border: 1px solid #eee;
+    padding: 1%;
+    font-size: 12px;
+    background: #fff;
+}
