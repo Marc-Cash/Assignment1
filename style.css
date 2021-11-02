@@ -1,11 +1,11 @@
 body {
     font-family: arial;
     font-size: 10px;
-    background: #fafafa;
+    background: hsl(0, 0%, 100%);
 }
 
 .headerTitle {
-    background-color: #014588;
+    background-color: #8f8f8f;
     margin: 10px 0px;
     padding: 10px;
     color: #fff;
